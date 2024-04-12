@@ -1,6 +1,11 @@
+// calculate a area of a circle:
+
 #include<stdio.h>
 int main (){
-    printf("Hello world!");
-    printf("Hello world again!");
-    return 0;
+  int a, pi, i;
+  r = 3;
+  
+  a= pi*r*r;
+  printf("%d", a);
+return 0;
 }
